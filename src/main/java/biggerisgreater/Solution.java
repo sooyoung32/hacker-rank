@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Solution {
-
+    //https://www.hackerrank.com/challenges/bigger-is-greater/problem?h_r=internal-search
     private static final int EQUAL = 0;
     private static final int BIGGER = 1;
     private static final int SMALLER = -1;
